@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	
+		<link rel="stylesheet" href="style.css">
+	</head>
+
+<header class="headers">
+	<img  src="logo.png" width="250" height="100" alt="logo">
+	<nav class="nav1">
+		<a class="navcont" href="#"><strong>Video to rent</strong></a>
+		<a class="navcont" href="#"><strong>Video to buy</strong></a>
+		<a class="navcont" href="#"><strong>Used DVDs</strong></a>
+		<a class="navcont" href="#"><strong>Offers</strong></a>
+	</nav>
+</header>
+<section>
+	<ul class="ul2">
+		<li class="ul2-item"><a href="#">Home</a></li>
+		<li class="ul2-item">/</li>
+		<li class="ul2-item"><a href="#">Used DVDs</a></li>
+		<li class="ul2-item">/</li>
+		<li class="ul2-item"><a href="#">Less than 10&#163;</a></li>
+	</ul>
+</section>
+<section class="paragraph">
+	<h2>Video less than 10&#163;</h2>
+	<p>Vel tabernis scrutantes suspendit paupertinae latent in aedilitate praecipua
+	vel latent tabernis ortu paupertinae aurigarum sua pernoctant sua ortu pluviis sua 
+	nulli reducto ad in studiorum reducto sono theatralium lucis.</p>
+</section>
+<section>
+	<div class="divs">
+		<div class="div1">
+			<img class="image" src="1product.png" width="150" height="150">
+			<h2>Video title 1</h2>
+			<p class="RRP">RRP : 18.99&#163;</p>
+			<p class="price">Price you pay <strong>9.99&#163;</strong></p>
+			<p class="save">Your saving 9&#163;</p>
+		</div>
+		<div class="div1">
+			<img class="image" src="2product.png" width="150" height="150">
+			<h2>Video title 2</h2>
+			<p class="RRP">RRP : 18.99&#163;</p>
+			<p class="price">Price you pay <strong>9.99&#163;</strong></p>
+			<p class="save">Your saving 9&#163;</p>
+		</div>
+		<div class="div1">
+			<img class="image" src="3product.png" width="150" height="150">
+			<h2>Video title 3</h2>
+			<p class="RRP">RRP : 18.99&#163;</p>
+			<p class="price">Price you <strong>9.99&#163;</strong></p>
+			<p class="save">Your saving 9&#163;</p>
+		</div>
+		<div class="div1">
+			<img class="image" src="4product.png" width="150" height="150">
+			<h2>Video title 4</h2>
+			<p class="RRP">RRP : 18.99&#163;</p>
+			<p class="price">Price you pay <strong>9.99&#163;</strong></p>
+			<p class="save">Your saving 9&#163;</p>
+		</div>
+	
+	</div>
+</section>
+
+<footer></footer>
+
+</html>

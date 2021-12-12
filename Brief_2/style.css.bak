@@ -1,0 +1,87 @@
+.headers{
+	display:flex;
+	padding-left:40px;
+
+}
+a{
+	color:black;
+}
+a:hover{
+	text-decoration:underline;
+}
+.nav1{
+	padding-left:30px;
+	padding-top:35px;
+}
+.navcont{
+	padding-left:7px;
+	color:black;
+}
+
+.ul2{
+	list-style: none;
+	display:block;
+	display:flex;
+}
+.ul2-item {
+	padding: 5px;
+}
+a {
+	
+	text-decoration:none;
+}
+.divs{
+	flex-direction:row;
+    text-align: center;
+
+
+}
+.divs div{
+	display:inline-block;
+}
+
+}
+li{
+	display:inline-block;
+}
+.div1{
+	border: 2px solid black;
+	padding-right:20px;
+	width:220px;
+	margin:20px;
+}
+.image{
+	padding-top:10px;
+}
+.RRP{
+	color:silver;
+}
+.paragraph{
+	padding-left:50px;
+	padding-right:50px;
+}
+.price{
+	
+}
+.save{
+	color:green;
+}
+@media screen and (max-width : 600px){
+	.headers{
+		flex-direction:column;
+		padding-left:0px;
+	}
+	.logo{
+		padding-left:0px;
+		width:100%;
+		display:block;
+	}
+	.nav1{
+		flex-direction:column;
+		display:flex;
+		padding:0px;
+	}
+	.headers .nav1 a{
+
+	}
+}
